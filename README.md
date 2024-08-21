@@ -1,2 +1,2 @@
 # Kanae
-##ini buat nyobain branchin (syahma & nadra)
+## ini buat nyobain branchin (syahma & nadra)
