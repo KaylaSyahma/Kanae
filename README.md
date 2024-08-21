@@ -8,3 +8,4 @@ kiw kiw
 hello world!
 
 bulan ini ada BS sekitar tanggal 28
+ujikom berapa bulan lagi yeah
