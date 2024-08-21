@@ -6,3 +6,5 @@ berbunga bunga ternyaa gais
 
 kiw kiw
 hello world!
+
+bulan ini ada BS sekitar tanggal 28
